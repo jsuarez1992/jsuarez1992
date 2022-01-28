@@ -3,7 +3,7 @@
 ## A little bit about me:
 
 👩 29 years old, born in the lovely Perú  
-🎓 I'm a student at Centria University of Applied Sciences { Bachelor of Engineering, Information Technology }  
+🎓 I'm a student at Centria University of Applied Sciences { Road to Software Engineering }  
 🚀 I’ll start learning Phyton and JavaScript in March  
 💻 Current set of skills: C# porgramming, SQL, as well as managing GitBash Command, HTML & CSS  
 💬 My hobbies are: singing	🎤, analog photography	📷, reading 📚  
