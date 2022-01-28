@@ -1,7 +1,5 @@
 # I'm Jessica Suárez
 
-## A little bit about me:
-
 👩 29 years old, born in the lovely Perú  
 🎓 I'm a student at Centria University of Applied Sciences { Road to Software Engineering }  
 🚀 I’ll start learning Phyton and JavaScript in March  
