@@ -17,4 +17,4 @@
 
 If you kindly look below, you'll find all the programs / projects that I've participate recently.  
 
-# 🔻🔻Check Jessica's ✨**awesome**✨ work **rigth below**🔻🔻
+# 🔻🔻Check Jessica's **awesome** work **rigth below**🔻🔻
