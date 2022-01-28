@@ -10,7 +10,7 @@
 
 ## How to get in touch with me?
 
-📧 I think the best idea is to **send me an [email]** (suarez.jessica1992@gmail.com)  
+📧 I think the best idea is to **send me an [email](suarez.jessica1992@gmail.com) **  
 💬 We'll **find a way to communicate**. I'm fluent in _English, Spanish and Swedish_. I can also speak _Chinese ans Finnish_.  
 
 ## Nice! but what have you done so far?
