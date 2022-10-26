@@ -4,7 +4,7 @@
 🎓 I'm a student at Centria University of Applied Sciences { Road to Software Engineering }  
 🚀 I’ll start learning Phyton and JavaScript in March  
 💻 Current set of skills: C# porgramming, SQL, as well as managing GitBash Command, HTML & CSS  
-💬 My hobbies are: singing	🎤, analog photography	📷, reading 📚  
+💬 My hobbies are:  analog photography	📷, reading 📚  
 
 ## How to get in touch with me?
 
