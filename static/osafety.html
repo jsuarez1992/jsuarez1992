@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="Responsive Admin &amp; Dashboard Template based on Bootstrap 5">
+	<meta name="author" content="AdminKit">
+	<meta name="keywords" content="adminkit, bootstrap, bootstrap 5, admin, dashboard, template, responsive, css, sass, html, theme, front-end, ui kit, web">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link rel="shortcut icon" href="img/icons/icon-48x48.png" />
+
+	<link rel="canonical" href="https://demo.adminkit.io/pages-blank.html" />
+
+	<title>Blank Page | AdminKit Demo</title>
+
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+	<!-- Choose your prefered color scheme -->
+	<link href="css/light.css" rel="stylesheet">
+	<!-- <link href="css/dark.css" rel="stylesheet"> -->
+
+
+	<!-- END SETTINGS -->
+</head>
+<!--
+  HOW TO USE: 
+  data-theme: default (default), dark, light, colored
+  data-layout: fluid (default), boxed
+  data-sidebar-position: left (default), right
+  data-sidebar-layout: default (default), compact
+-->
+
+<body data-theme="light" data-layout="fluid" data-sidebar-position="left" data-sidebar-layout="default">
+	<div class="wrapper">
+		<nav id="sidebar" class="sidebar js-sidebar">
+			<div class="sidebar-content js-simplebar">
+				<a class="sidebar-brand" href="index.html">
+					<span class="sidebar-brand-text align-middle">
+						SK Protect
+						<sup><small class="badge bg-primary text-uppercase">Pro</small></sup>
+					</span>
+					<svg class="sidebar-brand-icon align-middle" width="32px" height="32px" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="1.5"
+						 stroke-linecap="square" stroke-linejoin="miter" color="#FFFFFF" style="margin-left: -3px">
+						<path d="M12 4L20 8.00004L12 12L4 8.00004L12 4Z"></path>
+						<path d="M20 12L12 16L4 12"></path>
+						<path d="M20 16L12 20L4 16"></path>
+					</svg>
+				</a>
+				<ul class="sidebar-nav">
+					<li class="sidebar-header">
+						Pages
+					</li>
+
+					<li class="sidebar-item">
+						<a data-bs-target="#pages" data-bs-toggle="collapse" class="sidebar-link collapsed">
+							<i class="align-middle" data-feather="layout"></i> <span class="align-middle">Survey</span>
+						</a>
+						<ul id="pages" class="sidebar-dropdown list-unstyled collapse " data-bs-parent="#sidebar">
+							<li class="sidebar-item"><a class="sidebar-link" href="osafety.html">Occupational Safety/Health</a></li>
+							<li class="sidebar-item"><a class="sidebar-link" href="csafety.html">Chemical Safety</a></li>
+							<li class="sidebar-item"><a class="sidebar-link" href="eprotect.html">Explosion Protection</a></li>
+							<li class="sidebar-item"><a class="sidebar-link" href="fsafety.html">Fire Safety</a></li>
+						</ul>
+					</li>
+					<li class="sidebar-item">
+						<a class="sidebar-link" href="results.html">
+							<i class="align-middle" data-feather="user"></i> <span class="align-middle">Results</span>
+						</a>
+					</li>
+				</ul>
+
+                <div class="sidebar-cta">
+                    <div class="sidebar-cta-content">
+                        <strong class="d-inline-block mb-2">EXTRA FEATURES</strong>
+                        <div class="mb-3 text-sm">
+                            Log in with your admin credentials and have access to more features.
+                        </div>
+
+                        <div class="d-grid">
+                            <a href="landingpage-adm.html" class="btn btn-outline-primary" target="_blank">Switch Accounts</a>
+                        </div>
+                    </div>
+                </div>
+			</div>
+		</nav>
+
+		<div class="main">
+			<nav class="navbar navbar-expand navbar-light navbar-bg">
+				<a class="sidebar-toggle js-sidebar-toggle">
+					<i class="hamburger align-self-center"></i>
+				</a>
+
+				<div class="navbar-collapse collapse">
+					<ul class="navbar-nav navbar-align">
+					
+						<li class="nav-item dropdown">
+							<a class="nav-flag dropdown-toggle" href="#" id="languageDropdown" data-bs-toggle="dropdown">
+								<img src="img/flags/us.png" alt="English" />
+							</a>
+							<div class="dropdown-menu dropdown-menu-end" aria-labelledby="languageDropdown">
+								<a class="dropdown-item" href="#">
+									<img src="img/flags/us.png" alt="English" width="20" class="align-middle me-1" />
+									<span class="align-middle">English</span>
+								</a>
+								<a class="dropdown-item" href="#">
+									<img src="img/flags/fi.png" alt="Finnish" width="20" class="align-middle me-1" />
+									<span class="align-middle">Finnish</span>
+								</a>
+								<a class="dropdown-item" href="#">
+									<img src="img/flags/se.png" alt="Swedish" width="20" class="align-middle me-1" />
+									<span class="align-middle">Swedish</span>
+								</a>
+								<a class="dropdown-item" href="#">
+									<img src="img/flags/ee.png" alt="Estonian" width="20" class="align-middle me-1" />
+									<span class="align-middle">Estonian</span>
+								</a>
+							</div>
+						</li>
+						<li class="nav-item">
+							<a class="nav-icon js-fullscreen d-none d-lg-block" href="#">
+								<div class="position-relative">
+									<i class="align-middle" data-feather="maximize"></i>
+								</div>
+							</a>
+						</li>
+						<li class="nav-item dropdown">
+							<a class="nav-icon pe-md-0 dropdown-toggle" href="#" data-bs-toggle="dropdown">
+								<img src="img/avatars/avatar.jpg" class="avatar img-fluid rounded" alt="Charles Hall" />
+							</a>
+							<div class="dropdown-menu dropdown-menu-end">
+								<a class="dropdown-item" href="pages-profile.html"><i class="align-middle me-1" data-feather="user"></i> Profile</a>
+								<a class="dropdown-item" href="#"><i class="align-middle me-1" data-feather="pie-chart"></i> Analytics</a>
+								<div class="dropdown-divider"></div>
+								<a class="dropdown-item" href="pages-settings.html">
+									<i class="align-middle me-1" data-feather="settings"></i> Settings &
+									Privacy
+								</a>
+								<a class="dropdown-item" href="#"><i class="align-middle me-1" data-feather="help-circle"></i> Help Center</a>
+								<div class="dropdown-divider"></div>
+								<a class="dropdown-item" href="#">Log out</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</nav>
+
+			<main class="content">
+				<div class="container-fluid p-0">
+					<h1 class="h3 mb-3">Questionnaire <a href="#" style="float: right;" class="btn btn-light">
+						<i class="align-middle me-2 far fa-fw fa-window-close"></i>
+					</a></h1>
+					<div class="row">
+
+						<div class="col-sm-12 col-lg-4">
+
+							<div class="card h-100">
+
+								<div class="card-header">
+									<h1>OCCUPATIONAL SAFETY</h1>
+									<p>Under Construction</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-12 col-lg-8">
+
+							<div class="card h-100">
+
+								<div class="card-header">
+									<h5 class="card-title mb-0">SECTION 1: Occupational Safety</h5>
+									<!---Write the survey here lmao-->
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">1. Select the number of employees at your company</h6>
+									</div>
+									<div class="card-body">
+										<select class="form-control mb-3">
+											<option selected>Open this select menu</option>
+											<option>1 employee</option>
+											<option>2 - 9 employees</option>
+											<option>10 - 19 employees</option>
+											<option>20 - 29 employees</option>
+											<option>30 - + employees</option>
+										</select>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">2. Have you made an occupational health and safety action program?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">3. Have you made an occupational health and safety action plan? </h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">4. Have you made an occupational health action plan?  </h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">5. Do you have an agreement on occupational health services?  </h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">6. Do you provide first aid training?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">7. Have you made a job Description?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">8. Do you have a close-up notification procedure?</h6>
+										<label class="form-check form-check-inline">
+											<input class="form-check-input" type="checkbox" value="option1">
+											<span class="form-check-label">
+												Yes
+											</span>
+										</label>
+										<label class="form-check form-check-inline">
+											<input class="form-check-input" type="checkbox" value="option2">
+											<span class="form-check-label">
+												No
+											</span>
+										</label>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">9. Have you chosen an occupational safety manager?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">10. Have you chosen a health and safety representative?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">11. Have you founded an Occupational Safety and Health Committee?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">12. Have you done an evaluation of work risks?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">13. Have you done an equality plan ?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">14. Is there asbestos in the structures?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">15. Have you mapped the asbestos??</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">16. Are the noise levels known?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">17. Are the noise levels known?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">18. Does the noise dose exceed 85 dB?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">19. Do you have a noise control program?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">20. Are earmuffs available for the people working there?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">21. Has the exposure of people to air pollutants been reliably assessed?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">22. Does it exceed the given limits?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">23. Have the imminent dangers been eliminated/reduced? </h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">24. ill forklifts be used</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">25. Are the employees qualified to use the forklifts?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">26. Are cranes used?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">27. Do they have periodic inspections?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">28. Are risk tools used at the workplace?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">29. Do you have risk assesment instructions for the tools?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">30. Are there any new machines or combinations installed after 1994?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">31. Are the machines CE marked?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									<div class="card-header">
+										<h6 class="card-subtitle text-muted">32. Are the machine combinations CE marked?</h6>
+										<div>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option1">
+												<span class="form-check-label">
+													Yes
+												</span>
+											</label>
+											<label class="form-check form-check-inline">
+												<input class="form-check-input" type="checkbox" value="option2">
+												<span class="form-check-label">
+													No
+												</span>
+											</label>
+										</div>
+									</div>
+									
+								</div>
+								<div class="card-body">
+									
+								</div>
+							</div>
+						</div>	
+
+					</div>
+				</div>
+				<br>
+				<a class="btn btn-primary btn-md" style="float: right;" href="csafety.html" role="button">Continue</a>
+
+
+</main>
+
+<footer class="footer">
+	<div class="container-fluid">
+		<div class="row text-muted">
+			<div class="col-6 text-start">
+				<p class="mb-0">
+					<a href="https://protect.fi/en/" target="_blank" class="text-muted"><strong>SK protect</strong></a> &copy;
+				</p>
+			</div>
+			<div class="col-6 text-end">
+				<ul class="list-inline">
+					<li class="list-inline-item">
+						<a class="text-muted" href="https://protect.fi/en/company/">About Us</a>
+					</li>
+					<li class="list-inline-item">
+						<a class="text-muted" href="https://protect.fi/en/hseq-expertise-services/">Services</a>
+					</li>
+					<li class="list-inline-item">
+						<a class="text-muted" href="https://protect.fi/en/asiakastarinat/">Testimonials</a>
+					</li>
+					<li class="list-inline-item">
+						<a class="text-muted" href="https://protect.fi/en/contacts/">Contact Us</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+		</div>
+	</div>
+
+	<script src="js/app.js"></script>
+
+</body>
+
+</html>
