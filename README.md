@@ -1,8 +1,6 @@
-# AdminKit PRO – Bootstrap 5 Admin Template
+# SK PROTECT first prototype
 
-A professional Admin & Dashboard template based on Bootstrap 5 that comes with hundreds of UI components, forms, tables, charts, pages and icons. AdminKit does not require jQuery and neither does one of the 3rd party libraries AdminKit is using.
-
-Thanks for buying. Navigate to `https://adminkit.io/docs` to get started.
+Live DEMO at `https://jsuarez1992.github.io/firstcentrixprototype/`.
 
 ## Quick start
 
