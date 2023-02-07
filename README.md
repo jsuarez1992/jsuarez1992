@@ -1,6 +1,6 @@
 # SK PROTECT first prototype
 
-Live DEMO at `https://jsuarez1992.github.io/firstcentrixprototype/`.
+Live DEMO [here](https://jsuarez1992.github.io/firstcentrixprototype/).
 
 ## Quick start
 
