@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\static",
-    "\\static\\css",
-    "\\static\\img",
-    "\\static\\img\\photos"
+    "\\static"
   ],
+  "SelectedNode": "\\static\\landingpage.html",
   "PreviewInSolutionExplorer": false
 }
