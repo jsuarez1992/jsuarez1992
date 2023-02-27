@@ -1,15 +1,15 @@
 # I'm Jessica Suárez
 
-👩 29 years old, born in the lovely Perú  
-🎓 I'm a student at Centria University of Applied Sciences { Road to Software Engineering }  
-🚀 I’ll start learning Phyton and JavaScript in March  
-💻 Current set of skills: C# porgramming, SQL, as well as managing GitBash Command, HTML & CSS  
-💬 My hobbies are:  analog photography	📷, reading 📚  
+👩 Born and raised in Perú, South América 
+🎓 IT student at Centria AMK
+🚀 Currently learning THREE.js
+💻 C#,  Python, C++, SQL, GitBash , HTML & CSS , Javascriot, Bootstrap, Tailwind, Next.js 
+💬 Hobbies: analog photography, journaling, jigsaw puzzles, cooking, gaming 
 
 ## How to get in touch with me?
 
-📧 I think the best idea is to **send me an** [email](mailto:suarez.jessica1992@gmail.com)  
-💻 Or you can take a look at my **portfolio** [jessicasuarezc.com](http://jessicasuarezc.com/)  
-💬 We'll **find a way to communicate**. I'm fluent in _English, Spanish and Swedish_. I can also speak _Chinese ans Finnish_.  
+📧 **Send an** [email](mailto:suarez.jessica1992@gmail.com)  
+💻 **Portfolio** [jessicasuarezc.com](http://jessicasuarezc.com/)  
+💬 Fluent in _English, Spanish and Swedish_. I can also speak _Chinese ans Finnish_.  
 
 ## Check Jessica's **awesome** work **rigth below**
