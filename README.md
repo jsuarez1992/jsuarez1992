@@ -1,6 +1,6 @@
 # I'm Jessica Suárez
 
-👩 Born and raised in Perú, South América 
+👩 Born and raised in Perú, South América  
 🎓 IT student at Centria AMK  
 🚀 Currently learning THREE.js  
 💻 C#,  Python, C++, SQL, GitBash , HTML & CSS , Javascriot, Bootstrap, Tailwind, Next.js  
