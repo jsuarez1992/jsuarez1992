@@ -3,7 +3,7 @@
 👩 Born and raised in Perú, South América  
 🎓 IT student at Centria AMK  
 🚀 Currently learning THREE.js  
-💻 C#,  Python, C++, SQL, GitBash , HTML & CSS , Javascriot, Bootstrap, Tailwind, Next.js  
+💻 C#,  Python, C++, SQL, GitBash , HTML & CSS , Javascript, Bootstrap, Tailwind, Next.js  
 💬 Hobbies: analog photography, journaling, jigsaw puzzles, cooking, gaming  
 
 ## How to get in touch with me?
