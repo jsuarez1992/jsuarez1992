@@ -2,8 +2,8 @@
 
 👩 Born and raised in Perú, South América  
 🎓 IT student at Centria AMK  
-🚀 Currently learning THREE.js  
-💻 C#,  Python, C++, SQL, GitBash , HTML & CSS , Javascript, Bootstrap, Tailwind, Next.js  
+🚀 Interested in: UI/UX design, Embedded Circuits, AI & Machine Learning
+💻 C#,  Python, C++, SQL,HTML/CSS/Javascript, Bootstrap, .NET6, Next.js  
 💬 Hobbies: analog photography, journaling, jigsaw puzzles, cooking, gaming  
 
 ## How to get in touch with me?
