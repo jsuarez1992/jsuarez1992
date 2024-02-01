@@ -1,6 +1,5 @@
 # I'm Jessica Suárez
 
-👩 Born and raised in Perú, South América  
 🎓 IT student at Centria AMK  
 🚀 Interested in: UI/UX design, Embedded Circuits, AI & Machine Learning
 💻 C#,  Python, C++, SQL,HTML/CSS/Javascript, Bootstrap, .NET6, Next.js  
