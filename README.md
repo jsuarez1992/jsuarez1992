@@ -12,7 +12,7 @@
 💻 **Portfolio** [jessicasuarezc.com](http://jessicasuarezc.com/)  
 💬 Fluent in _English, Spanish and Swedish_. I can also speak _Chinese and Finnish_.  
 
-## TRACKING LOG - DEMO
+## PROJECT DEMOS
 
 https://github.com/jsuarez1992/jsuarez1992/assets/92160641/fe42a502-a053-44cf-8337-6a5436321930
 
