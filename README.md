@@ -14,6 +14,6 @@
 
 ## PROJECTS
 
-- FORMWIZZARD : Form for companies developed using .NET6 Razor Pages. Source code upon request, project demo [here](https://github.com/jsuarez1992/DotNetGladiators/tree/main).
+- FORMWIZZARD : Web App for companies developed using .NET6 Razor Pages. Private project - NDA so ´no public source code´, project demo [here](https://github.com/jsuarez1992/DotNetGladiators/tree/main).
 - PIZZERIA - DEMO : Web App for ordering pizza, using .NET6. Source code & project demo [here](https://github.com/jsuarez1992/Tracking-Log).
 - TRACKING LOG - DEMO : Small tracking log to keep notes, using .NET6. Source code & project demo [here](https://github.com/jsuarez1992/Tracking-Log).
