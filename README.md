@@ -1,6 +1,7 @@
 # I'm Jessica Suárez
 
 🎓 IT student at Centria AMK  
+💻 **Portfolio** [jsuarezc.com](https://www.jsuarezc.com/)  
 🚀 Interested in: UI/UX design, Embedded Circuits, AI & Machine Learning
 💻 C#,  Python, C++, SQL,HTML/CSS/Javascript, Bootstrap, .NET6, Next.js  
 💬 Hobbies: analog photography, journaling, jigsaw puzzles, cooking, gaming  
@@ -8,7 +9,6 @@
 ## How to get in touch with me?
 
 📧 **Send an** [email](mailto:suarez.jessica1992@gmail.com)  
-💻 **Portfolio** [jsuarezc.com](https://www.jsuarezc.com/)  
 💬 Fluent in _English, Spanish and Swedish_. I can also speak _Chinese and Finnish_.  
 
 ## PROJECTS
