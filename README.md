@@ -2,7 +2,7 @@
 
 🎓 IT student at Centria AMK  
 💻 **Portfolio** [jsuarezc.com](https://www.jsuarezc.com/)  
-🚀 Interested in: UI/UX design, Embedded Circuits, AI & Machine Learning
+🚀 Interested in: UI/UX design, Embedded Circuits, AI & Machine Learning  
 💻 C#,  Python, C++, SQL,HTML/CSS/Javascript, Bootstrap, .NET6, Next.js  
 💬 Hobbies: analog photography, journaling, jigsaw puzzles, cooking, gaming  
 
