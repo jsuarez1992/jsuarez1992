@@ -16,4 +16,4 @@
 - **FORMWIZZARD :** Web App for companies developed using .NET6 Razor Pages. **Private project - NDA** so `no public source code`, project demo [here](https://github.com/jsuarez1992/DotNetGladiators/tree/main).
 - **ROBOT MAZE :** Maze designed in Python, uses Q-learning to find the exit. Source code & project demo [here](https://github.com/jsuarez1992/Maze-with-RL).
 - **TRACKING LOG - DEMO :** Small tracking log to keep notes, using .NET6. Source code & project demo [here](https://github.com/jsuarez1992/Tracking-Log).
-- **IoT for Industry 4.0:** Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol. Presentation / demo [here](https://github.com/jsuarez1992/Tracking-Log).
+- **IoT for Industry 4.0:** Program built with Lego ev3 / python and uses umqtt.robust and paho for MQTT protocol. Presentation / demo [here](https://github.com/jsuarez1992/IoT-Project).
